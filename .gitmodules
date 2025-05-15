@@ -4,3 +4,7 @@
 [submodule "solstrike-backend"]
 	path = solstrike-backend
 	url = https://github.com/CeresEcosystem/solstrike-backend
+[submodule "SolStrike"]
+	path = SolStrike
+	url = https://github.com/LukaMarkovic8/SolStrike
+	branch = Develop
