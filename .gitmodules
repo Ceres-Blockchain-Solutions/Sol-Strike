@@ -1,0 +1,6 @@
+[submodule "solstrike-contracts"]
+	path = solstrike-contracts
+	url = https://github.com/Ceres-Blockchain-Solutions/solstrike-contracts
+[submodule "solstrike-backend"]
+	path = solstrike-backend
+	url = https://github.com/CeresEcosystem/solstrike-backend
